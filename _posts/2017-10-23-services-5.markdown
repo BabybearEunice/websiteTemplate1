@@ -1,0 +1,8 @@
+---
+layout: default
+img: watertune.png
+category: Services
+title: Publication
+description: |
+---
+ Eunice <a href="https://www.youtube.com/channel/UCKlWWFX5sCRvGy49sLx2q0Q?view_as=subscriber">YouTube</a> Channel including studying, eating, playing...etc
