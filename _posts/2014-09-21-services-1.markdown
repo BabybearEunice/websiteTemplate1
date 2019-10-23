@@ -2,7 +2,7 @@
 layout: default
 img: bitvillege.png
 category: Services
-title: cryptocurrency villege
+title: cryptocurrency village
 description: |
 ---
  Ethereum ERC20 smart contract research...
