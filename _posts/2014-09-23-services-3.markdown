@@ -1,6 +1,6 @@
 ---
 layout: default
-img: techworld.png
+img: techworld.jpg
 category: Services
 title: Google Web Fonts and<br>Font Awesome Icons
 description: |
