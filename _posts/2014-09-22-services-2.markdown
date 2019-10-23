@@ -1,10 +1,8 @@
 ---
 layout: default
-img: dog.png
+img: watertune.png
 category: Services
-title: 3D Device Mockups<br>by PSDCovers
+title: MiuMusic YouTube Channel
 description: |
 ---
-  Turn your 2D designs into high quality, 3D
-  product shots in seconds using free Photoshop actions by [PSDCovers](http://www.psdcovers.com/)! Visit
-  their website to download some of their awesome, free photoshop actions!
+  MiuMusic collects some vocal cover, piano pieces in pop music and classical music...
