@@ -2,7 +2,7 @@
 layout: default
 img: bitvillage.png
 category: Services
-title: cryptocurrency village
+title: cryptovillage
 description: |
 ---
  Ethereum ERC20 smart contract research...
