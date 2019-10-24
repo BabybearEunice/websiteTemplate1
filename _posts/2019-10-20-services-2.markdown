@@ -1,6 +1,6 @@
 ---
 layout: default
-img: watertune.png
+img: .png
 category: Services
 title: MiuMusic
 description: |
