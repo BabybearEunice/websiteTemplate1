@@ -1,6 +1,6 @@
 ---
 layout: default
-img: techworld.jpg
+img: coding.png
 category: Services
 title: Change the world
 description: |
