@@ -55,7 +55,7 @@
 
 <section id="services2">
 <!-- Page Content -->
-{% for post in site.posts reversed %}
+{% for post in site.posts/2019-10-20-services2-2.markdown reversed %}
   {% capture thecycle %}{% cycle 'odd', 'even' %}{% endcapture %}
     {% if thecycle == 'odd' %}
     <div class="content-section-a">
