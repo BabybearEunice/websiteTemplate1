@@ -1,8 +1,8 @@
 ---
 layout: default
-img: piano.png
-category: Services2
-title: MiuMusic
+img2: piano.png
+category2: Services2
+title2: MiuMusic
 description: |
 ---
   MiuMusic <a href="https://www.youtube.com/channel/UCO-n8NtK1M4MF28s9932tnw?view_as=subscriber">YouTube</a> collects some vocal cover, piano pieces in pop music and classical music...</br>
