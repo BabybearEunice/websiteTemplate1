@@ -1,7 +1,7 @@
 ---
 layout: default
 img: piano.png
-category: Services2
+category: Services
 title: MiuMusic
 description: |
 ---
